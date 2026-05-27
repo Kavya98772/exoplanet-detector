@@ -73,5 +73,6 @@ Open in Google Colab:
 2\. Load exoTrain.csv and exoTest.csv
 
 3\. Run all cells
-Hugging face link: huggingface.co/spaces/Kavya987/exoplanet-detector
+
+Hugging face link: https://huggingface.co/spaces/Kavya987/exoplanet-detector
 
